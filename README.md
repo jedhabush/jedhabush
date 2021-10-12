@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jedhabush
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me LinkedIn Jed Habush
+- 👋 Hi, I’m @jedhabush.
+- 👀 I’m interested in Web Development technologies.
+- 🌱 I’m currently taking my Front End Development skills to the next level.
+- 📫 How to reach me LinkedIn Jed Habush.
 
 <!---
 jedhabush/jedhabush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
