@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jedhabush.
 - 👀 I’m interested in Web Development technologies.
-- 🌱 I’m currently taking my Front End Development skills to the next level.
+- 🌱 I’m currently taking my Software Development skills to the next level.
 - 📫 How to reach me LinkedIn Jed Habush.
 
 <!---
