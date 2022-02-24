@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jedhabush.
 - 👀 I’m interested in Web Development technologies.
-- 🌱 I’m currently taking my Software Development skills to the next level.
-- 📫 How to reach me *LinkedIn* Jed Habush.
+- 🌱 Junior Software Developer @ [Nology](https://www.linkedin.com/company/nology-io/)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jed-habush-6a877524/).
 
 <!---
 jedhabush/jedhabush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
