@@ -4,6 +4,13 @@
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/jed-habush-6a877524/).
 - CodeWars Profile: [CodeWars Stats](https://www.codewars.com/users/jedhabush/stats)
 
+<p dir="auto">
+<code>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/jedhabush/badges/large"><img height="30" alt="javascript" src="https://www.codewars.com/users/jedhabush/badges/large" style="max-width: 100%;"></a>
+</code>
+</p>
+
+
 <!-- css code taken from https://github.com/anuraghazra -->
 
 <!-- css code for langs icons-->
