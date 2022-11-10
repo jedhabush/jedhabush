@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/jedhabush/github-readme-stats">
-  <img align="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedhabush&layout=compact&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedhabush&layout=compact&hide_border=true" style="max-width: 100%;"/>
 </a>
 <a href="https://github.com/jedhabush/github-readme-stats">
-  <img align="flex" src="https://github-readme-stats.vercel.app/api?username=jedhabush&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jedhabush&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" style="max-width: 100%;"/>
 </a>
 
 
