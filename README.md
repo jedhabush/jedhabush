@@ -6,7 +6,7 @@
 
 <!-- css code taken from https://github.com/anuraghazra -->
 
-
+<!-- css code for langs icons-->
 <p dir="auto">
 <code>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
@@ -24,6 +24,8 @@
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 100%;"></a>
 </code>
 </p>
+
+<!-- css code for cards stats-->
 
 <a href="https://github.com/jedhabush/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedhabush&layout=compact&hide_border=true&card_width=290"/>
