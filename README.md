@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jedhabush.
 - 👀 I’m interested in Web Development technologies.
-- 🌱 Junior Software Developer 
+- 🌱 Software Developer 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/jed-habush-6a877524/).
 - CodeWars Profile: [CodeWars Stats](https://www.codewars.com/users/jedhabush/stats)
 
