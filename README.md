@@ -5,7 +5,7 @@
 - CodeWars Profile: [CodeWars Stats](https://www.codewars.com/users/jedhabush/stats)
 
 
-
+<!-- codewars icons-->
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/jedhabush/badges/large"><img height="30" alt="javascript" src="https://www.codewars.com/users/jedhabush/badges/large" style="max-width: 100%;"></a>
 
 
@@ -16,9 +16,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img height=50
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-
-  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
 
 <!-- css code taken from https://github.com/anuraghazra -->
