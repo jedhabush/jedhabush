@@ -25,10 +25,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 <!-- css code for cards stats and top langugaes-->
 
 <a href="https://github.com/jedhabush/github-readme-stats#gh-light-mode-only"> <!--card stats for allc commits -->
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=jedhabush&show_icons=true&hide_border=true&include_all_commits=true&theme=default#gh-light-mode-only" />
+  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=jedhabush&show_icons=true&hide_border=true&include_all_commits=true&theme=default#gh-light-mode-only" />
 </a>
 <a href="https://github.com/jedhabush/github-readme-stats">  <!--top langs -->
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedhabush&hide_border=true&layout=compact" />
+  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedhabush&hide_border=true&layout=compact" />
 </a>
 
 
