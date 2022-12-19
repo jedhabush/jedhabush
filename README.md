@@ -4,42 +4,34 @@
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/jed-habush-6a877524/).
 - CodeWars Profile: [CodeWars Stats](https://www.codewars.com/users/jedhabush/stats)
 
-<p dir="auto">
-<code>
+
+
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.codewars.com/users/jedhabush/badges/large"><img height="30" alt="javascript" src="https://www.codewars.com/users/jedhabush/badges/large" style="max-width: 100%;"></a>
-</code>
-</p>
+
+
+<!-- css code for langs icons-->
+
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/><img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+
+  
 
 
 <!-- css code taken from https://github.com/anuraghazra -->
+<!-- css code for cards stats and top langugaes-->
 
-<!-- css code for langs icons-->
-<p dir="auto">
-<code>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a>
-</code>
-<code>
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" style="max-width: 100%;"></a>
-</code>
-<code>
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a>
-</code>
-<code>
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a>
-</code>
- <code>
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="30" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 100%;"></a>
-</code>
-</p>
-
-<!-- css code for cards stats-->
-
-<a href="https://github.com/jedhabush/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedhabush&layout=compact&hide_border=true&card_width=290"/>
+<a href="https://github.com/jedhabush/github-readme-stats#gh-light-mode-only"> <!--card stats for allc commits -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jedhabush&show_icons=true&hide_border=true&include_all_commits=true&theme=default#gh-light-mode-only" />
 </a>
-<a href="https://github.com/jedhabush/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jedhabush&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&card_width=290"/>
+<a href="https://github.com/jedhabush/github-readme-stats">  <!--top langs -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedhabush&hide_border=true&layout=compact" />
 </a>
+
+
 
 
 <!---
